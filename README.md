@@ -12,7 +12,7 @@ Octava to-do list is an simple gui TO-DO-LIST app built using TKinter.
 
 ## 🎥 Video
 
-- https://drive.google.com/drive/folders/1usBC5Wa_2RwIFn5xZO3gflzX0vBk2Cz
+- https://drive.google.com/drive/folders/1usBC5Wa_2RwIFn5xZO3gflzX0vBk2CzD
 
 ## 🖥 Developed Using 
 [![My Skills](https://skills.thijs.gg/icons?i=py)](https://skills.thijs.gg)
